@@ -14,14 +14,16 @@ An intelligent chatbot powered by **LLM + RAG** (Retrieval-Augmented Generation)
 
 ---
 
-
- ## 🔐 Hugging Face Access Token
+## 🔐 Hugging Face Token Setup
 To use the Mistral LLM, add your Hugging Face token:
 
-Get it from: https://huggingface.co/settings/tokens
+🔗 Get your token here: https://huggingface.co/settings/tokens
 
-Set it as an environment variable or use directly in app.py:
-HUGGINGFACE_TOKEN = os.getenv("HF_TOKEN", "your_token_here")
+Set it as an environment variable:
+```bash
+export HF_TOKEN=your_token_here
+```
+
 
 ## 📂 Supported Datasets
 
@@ -34,18 +36,20 @@ HUGGINGFACE_TOKEN = os.getenv("HF_TOKEN", "your_token_here")
 
 ## ▶️ How to Run
 Run the app with:
+```bash
 streamlit run app.py
+```
 
  ## 🧰 Technologies Used
-Streamlit
+● Streamlit
 
-FAISS
+● FAISS
 
-Hugging Face Transformers
+● Hugging Face Transformers
 
-Sentence Transformers
+● Sentence Transformers
 
-Scikit-learn
+● Scikit-learn
 
 ## 👩‍💻 Author
 Made by Yashika Maligi
