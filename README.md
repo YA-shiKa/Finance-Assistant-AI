@@ -1,4 +1,4 @@
-# 💬 GenAI Financial Chatbot
+# 💬 Finance Assistant AI
 
 An intelligent chatbot powered by **LLM + RAG** (Retrieval-Augmented Generation) to assist with financial queries, fraud detection insights, and company-related Q&A using custom financial datasets.
 
