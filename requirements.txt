@@ -1,0 +1,9 @@
+transformers
+accelerate
+bitsandbytes
+datasets
+sentence-transformers
+faiss-cpu
+langchain
+huggingface_hub
+streamlit
