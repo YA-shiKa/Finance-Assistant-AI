@@ -80,10 +80,10 @@ Answer:"""
 
 # 7. Streamlit UI
 def main():
-    st.set_page_config(page_title="💸 GenAI Financial Chatbot", layout="centered")
+    st.set_page_config(page_title="💸 Finance-Assistant-AI", layout="centered")
     st.markdown("""
         <div style='text-align:center;'>
-            <h1>💬 GenAI Financial Chatbot</h1>
+            <h1>💬 Finance-Assistant-AI</h1>
             <p style='font-size:18px;'>Ask about finance, fraud detection, or company-related queries powered by LLM + RAG.</p>
         </div>
     """, unsafe_allow_html=True)
