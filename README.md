@@ -14,6 +14,10 @@ An intelligent chatbot powered by **LLM + RAG** (Retrieval-Augmented Generation)
 
 ---
 
+## 🖼️ Preview
+![image](https://github.com/user-attachments/assets/611ad30e-989e-43e7-831c-94f026f5b7b9)
+
+
 ## 🔐 Hugging Face Token Setup
 To use the Mistral LLM, add your Hugging Face token:
 
