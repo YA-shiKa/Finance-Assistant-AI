@@ -17,6 +17,8 @@ An intelligent chatbot powered by **LLM + RAG** (Retrieval-Augmented Generation)
 ## 🖼️ Preview
 ![image](https://github.com/user-attachments/assets/611ad30e-989e-43e7-831c-94f026f5b7b9)
 
+---
+
 
 ## 🔐 Hugging Face Token Setup
 To use the Mistral LLM, add your Hugging Face token:
@@ -27,7 +29,7 @@ Set it as an environment variable:
 ```bash
 export HF_TOKEN=your_token_here
 ```
-
+---
 
 ## 📂 Supported Datasets
 
@@ -37,12 +39,14 @@ export HF_TOKEN=your_token_here
 | `synthetic_log.csv` | Fraud Detection    | `type`, `nameOrig`, `isFraud`, etc. |
 | `financial_qa.csv`  | Financial Q&A      | `question`, `answer`, `context`     |
 
+---
 
 ## ▶️ How to Run
 Run the app with:
 ```bash
 streamlit run app.py
 ```
+---
 
  ## 🧰 Technologies Used
 ● Streamlit
@@ -55,5 +59,9 @@ streamlit run app.py
 
 ● Scikit-learn
 
+---
+
 ## 👩‍💻 Author
 Made by Yashika Maligi
+
+---
